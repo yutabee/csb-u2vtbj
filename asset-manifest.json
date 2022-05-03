@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yutabee.github.io/csb-u2vtbj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yutabee.github.io/csb-u2vtbj/static/js/main.40c93f41.chunk.js",
+    "main.js.map": "https://yutabee.github.io/csb-u2vtbj/static/js/main.40c93f41.chunk.js.map",
+    "runtime-main.js": "https://yutabee.github.io/csb-u2vtbj/static/js/runtime-main.80ba2828.js",
+    "runtime-main.js.map": "https://yutabee.github.io/csb-u2vtbj/static/js/runtime-main.80ba2828.js.map",
+    "static/js/2.e2513068.chunk.js": "https://yutabee.github.io/csb-u2vtbj/static/js/2.e2513068.chunk.js",
+    "static/js/2.e2513068.chunk.js.map": "https://yutabee.github.io/csb-u2vtbj/static/js/2.e2513068.chunk.js.map",
+    "index.html": "https://yutabee.github.io/csb-u2vtbj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yutabee.github.io/csb-u2vtbj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e2513068.chunk.js.LICENSE.txt": "https://yutabee.github.io/csb-u2vtbj/static/js/2.e2513068.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ba2828.js",
+    "static/js/2.e2513068.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.40c93f41.chunk.js"
+  ]
+}
